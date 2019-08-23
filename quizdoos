@@ -17,8 +17,8 @@ NODE_EXEC=$(which node)
 ###############
 ### BEGIN INIT INFO
 # Provides: quizdoos
-# Required-Start:    $network $remote_fs $local_fs
-# Required-Stop:     $network $remote_fs $local_fs
+# Required-Start:    $local_fs
+# Required-Stop:     $local_fs
 # Default-Start:     2 3 4 5
 # Default-Stop:      0 1 6
 # Short-Description: start and stop node
