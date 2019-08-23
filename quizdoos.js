@@ -99,7 +99,7 @@ class GAME {
 	buttonPressed(which, level, pinID) {
 		// bounce
 
-		console.log(which, level, pinID );
+		// console.log(which, level, pinID );
 
 			switch(which) {
 			case 'C1' : {
