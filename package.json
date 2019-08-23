@@ -1,0 +1,11 @@
+{
+  "name": "quizdoos_node",
+  "version": "1.0.0",
+  "description": "just a box with buttons",
+  "main": "quizdoos.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "edpannelap",
+  "license": "ISC"
+}
